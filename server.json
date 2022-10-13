@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "descriptions": "Desemvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2022-10-06T17:12:45.009Z"
+    },
+    {
+      "id": 2,
+      "descriptions": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2022-10-05T17:12:45.009Z"
+    },
+    {
+      "descriptions": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-10-11T17:14:40.746Z",
+      "id": 3
+    },
+    {
+      "descriptions": "Ignite Rocketseat",
+      "price": 59,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2022-10-11T17:14:40.746Z",
+      "id": 4
+    },
+    {
+      "descriptions": "Pixel Art",
+      "price": 3500,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-10-11T17:18:54.482Z",
+      "id": 5
+    },
+    {
+      "descriptions": "Corte decabelo",
+      "price": 35,
+      "category": "beleza",
+      "type": "outcome",
+      "createdAt": "2022-10-11T17:40:21.268Z",
+      "id": 6
+    }
+  ]
+}
